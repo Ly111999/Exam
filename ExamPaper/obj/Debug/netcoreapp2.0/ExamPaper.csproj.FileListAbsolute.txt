@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\bin\Debug\netcoreapp2.0\ExamPaper.deps.json
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\bin\Debug\netcoreapp2.0\ExamPaper.runtimeconfig.json
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\bin\Debug\netcoreapp2.0\ExamPaper.runtimeconfig.dev.json
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\bin\Debug\netcoreapp2.0\ExamPaper.dll
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\bin\Debug\netcoreapp2.0\ExamPaper.pdb
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.dll
+C:\Users\LAPTOP\source\repos\ExamPaper\ExamPaper\obj\Debug\netcoreapp2.0\ExamPaper.pdb
